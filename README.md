@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriele Gagliardi
-- 👀 I’m interested in Cybersecurity, Cloud Computing, AI, Quantum Computing
+- 👀 I’m interested in Cybersecurity
 - 🌱 Be respectful
 - 💞️ Always improve yourselves
 - 📫 Don't be negative towards the future
