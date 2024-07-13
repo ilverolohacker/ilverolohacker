@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriele Gagliardi
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m a Cybersecurity Advisor @Microsoft
 - 🌱 Be respectful
 - 💞️ Always improve yourselves
 - 📫 Don't be negative towards the future
